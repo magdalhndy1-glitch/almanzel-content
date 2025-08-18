@@ -3,8 +3,14 @@
     {
       "title": "التصميم",
       "items": [
-        { "image": "sections/design/img1.jpg", "caption": "وصف صورة رقم 1" },
-        { "image": "sections/design/img2.jpg", "caption": "وصف صورة رقم 2" }
+        {
+          "image": "https://raw.githubusercontent.com/magdalhndy1-glitch/almanzel-content/main/sections/design/img1.jpg",
+          "caption": "وصف صورة رقم 1"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/magdalhndy1-glitch/almanzel-content/main/sections/design/img2.jpg",
+          "caption": "وصف صورة رقم 2"
+        }
       ]
     }
   ]
