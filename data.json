@@ -1,0 +1,11 @@
+{
+  "sections": [
+    {
+      "title": "التصميم",
+      "items": [
+        { "image": "sections/design/img1.jpg", "caption": "وصف صورة رقم 1" },
+        { "image": "sections/design/img2.jpg", "caption": "وصف صورة رقم 2" }
+      ]
+    }
+  ]
+}
